@@ -8,7 +8,7 @@
 
 -----
 
-# Features:
+# Features
 
 - Mount & enable auto-mounting on boot.
 
